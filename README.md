@@ -2,8 +2,6 @@
 
 **FreeCodeCamp** https://www.youtube.com/watch?v=WnMQ8HlmeXc&t=403s
 
-Claro, aquí tienes un resumen en Markdown de los conceptos que hemos visto:
-
 ### Resumen de Conceptos de UML y POO
 
 #### 1. Asociación
